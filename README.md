@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hey! 👋🏼 I am Jeevan Karee
 
-<!--
-**jeevankaree220/jeevankaree220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐I have 9.5 years of working experience around software industry.
 
-Here are some ideas to get you started:
+⭐I am a Web Developer located in India, Founding Engineer for 4 Different startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️Expert in hiring interns and training them to build products.
+
+⭐️I enjoy working on Frontend Development (Next.js, React JS, Vue JS, Angular, Tailwind CSS, Bootstrap 4, Webflow).
+
+Visit my website 👉 [Web Application Developer](https://jeevankaree.com/)
+ 
+###
+<br>
+<p align="left">You can find me here! 👇🏽</p>
+
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jeevankumarkaree/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/JeevanKaree" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
