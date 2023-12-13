@@ -1,12 +1,12 @@
 # Hey! 👋🏼 I am Jeevan Karee
 
-⭐I have 10.5 years of working experience around software industry.
+⭐I have 8+ years of working experience as Frontend Developer.
 
-⭐I am a Web Developer located in India, Founding Engineer for 4 Different startups.
+⭐I am a Frontend Developer located in India, Founding Engineer for 4 Different startups.
 
-⭐️Expert in hiring interns and training them to build products.
+⭐️I have successfully trained 20+ interns in 4 different startups and played a cruicial role in comapny's growth.
 
-⭐️I enjoy working on Frontend Development (Next.js, React JS, Vue JS, Angular, Tailwind CSS, Bootstrap 4, Webflow).
+⭐️I enjoy building UI using HTML, Next.js, React.js, Vue.js, CSS, Tailwind CSS, Bootstrap 4.
 
 Visit my website 👉 [Web Application Developer](https://jeevankaree.com/)
  
