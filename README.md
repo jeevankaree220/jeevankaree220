@@ -2,7 +2,7 @@
 
 ⭐I have 8+ years of working experience as Frontend Developer.
 
-⭐I am a Frontend Developer located in India, Founding Engineer for 4 Different startups.
+⭐From 2016 to till date, I have helped 4 different startups in building products.
 
 ⭐️I have successfully trained 20+ interns in 4 different startups and played a cruicial role in comapny's growth.
 
