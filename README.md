@@ -1,14 +1,14 @@
 # Hey! 👋🏼 I am Jeevan Karee
 
-⭐I have 8+ years of working experience as Frontend Developer.
+⭐I have 7+ years of working experience as UI Developer.
 
-⭐From 2016 to till date, I have helped 4 different startups in building products.
+⭐From 2017 to till date, I have helped 3 different startups in building products.
 
-⭐️I have successfully trained 20+ interns in 4 different startups and played a cruicial role in comapny's growth.
+⭐️I have successfully trained 10+ interns in 3 different startups and played a cruicial role in comapny's growth.
 
 ⭐️I enjoy building UI using HTML, Next.js, React.js, Vue.js, CSS, Tailwind CSS, Bootstrap 4.
 
-Visit my website 👉 [Web Application Developer](https://jeevankaree.com/)
+Visit my website 👉 [Web Application Developer](https://cssexpert.dev/)
  
 ###
 <br>
